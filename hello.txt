@@ -1,4 +1,0 @@
-asl 
-
-hello
-This is my First Repository
